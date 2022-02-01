@@ -28,7 +28,7 @@ You can check the actual challenge page on the references.
 
 ## References
 
- - [Day 66 of 100 Days of Swift](hhttps://www.hackingwithswift.com/100/66)
+ - [Day 66 of 100 Days of Swift](https://www.hackingwithswift.com/100/66)
  - [100 Days of Swift](https://www.hackingwithswift.com/100/)
  - [Hacking with Swift](https://www.hackingwithswift.com/)
 
